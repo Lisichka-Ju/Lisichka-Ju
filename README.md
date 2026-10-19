@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C2C&width=435&lines=Lisicka-Ju)](https://git.io/typing-svg)
+
 <!--
 **Lisichka-Ju/Lisichka-Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
